@@ -23,7 +23,7 @@ An AI-powered Personal Assistant built with **Python, Flask, HTML, CSS, JavaScri
 ## 📂 Project Structure
 
 ```
-AI-Personal-Assistant/
+AI-Personal-Assistant_withFlask/
 │
 ├── static/
 │   └── style.css
@@ -32,9 +32,7 @@ AI-Personal-Assistant/
 │   └── index.html
 │
 ├── .gitignore
-├── .env.example
 ├── main.py
-├── requirements.txt
 └── README.md
 ```
 
