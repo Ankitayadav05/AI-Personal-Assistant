@@ -50,19 +50,13 @@ git clone https://github.com/Ankitayadav05/AI-Personal-Assistant.git
 cd AI-Personal-Assistant
 ```
 
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Create a `.env` file
+### 3. Create a `.env` file
 
 ```env
 GROQ_API_KEY=your_api_key_here
 ```
 
-### 5. Run the application
+### 4. Run the application
 
 ```bash
 python main.py
